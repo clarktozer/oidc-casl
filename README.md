@@ -1,2 +1,2 @@
-# oidc-casl
-Permissions provider using CASL using with tokens
+# react-oidc-casl
+Example react app with permissions provider hooks using CASL with role based JWT tokens
